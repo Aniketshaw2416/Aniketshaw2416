@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">👀 I’m interested in frontend projects , UI/UX<br><br>🌱 I’m currently learning  C=+ , JavaScript<br><br>💞️ I’m looking to collaborate on FrontEnd projects<br><br>📫 Looking for Internship and Job<br><br>⚡ Fun fact "This project was inspired by a late-night coding session and a spontaneous idea fueled by too much coffee."</p>
+<p align="center">👀 I’m interested in frontend projects , UI/UX<br><br>🌱 I’m currently learning  C++ , JavaScript<br><br>💞️ I’m looking to collaborate on FrontEnd projects<br><br>📫 Looking for Internship and Job<br><br>⚡ Fun fact "This project was inspired by a late-night coding session and a spontaneous idea fueled by too much coffee."</p>
 
 ###
 
